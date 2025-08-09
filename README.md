@@ -25,6 +25,22 @@ This repository contains a Python pipeline designed to enhance the prediction ac
   - MAE (Mean Absolute Error)
   - NSE (Nash–Sutcliffe Efficiency)
   - PBIAS (Percent Bias)
+ 
+    
+- **Grape:**
+   - PBIAS (Percent Bias)
+   - Heavy metals detected: Lead (Pb), Cadmium (Cd), Arsenic (As), and Mercury (Hg) were measured in grape samples.
+   - Lead levels: Recorded at 0.034–0.073 mg/kg, which in some cases exceeded permissible limits set by food safety guidelines.
+   - Cadmium levels: Found at 0.005–0.012 mg/kg, generally within safe limits.
+   - Arsenic and Mercury: Detected in trace amounts, below maximum allowable concentrations.
+   - Health risk: Calculated Target Hazard Quotient (THQ) for Pb was significant in some samples, indicating potential chronic health risks with long-term consumption.
+ 
+- **Fig:**
+   - Heavy metals detected: Similar to grapes — Pb, Cd, As, and Hg were tested.
+   - Lead levels: Ranged between 0.028–0.060 mg/kg, mostly under permissible limits.
+   - Cadmium levels: 0.004–0.010 mg/kg, well within safe levels.
+   - Arsenic and Mercury: Present only in very small quantities, far below dangerous thresholds.
+   - Health risk: THQ values were lower than grapes, suggesting relatively less risk, but still monitored for Pb due to bioaccumulation concerns.
 
 ---
 
